@@ -4,7 +4,7 @@
 
 This is the public repository for my Minecraft LED Clock project.
 
-The project tutorial itself is (available on Instructables)[https://www.instructables.com/Making-a-Smart-LED-Minecraft-Clock-in-Real-Life/].
+The project tutorial itself is [available on Instructables](https://www.instructables.com/Making-a-Smart-LED-Minecraft-Clock-in-Real-Life/).
 
 # Setting up
 Clone (or download) this repository, and open the folder in VS Code with PlatformIO extension.
